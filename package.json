@@ -20,7 +20,7 @@
     "test": "npm run lint"
   },
   "dependencies": {
-    "adminlte-2-react": "^0.1.27",
+    "adminlte-2-react": "^0.1.30",
     "copy-to-clipboard": "^3.3.1",
     "gatsby": "^2.31.1",
     "gatsby-image": "^2.10.0",
