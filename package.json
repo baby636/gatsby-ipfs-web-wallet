@@ -22,7 +22,7 @@
   "dependencies": {
     "adminlte-2-react": "^0.1.27",
     "copy-to-clipboard": "^3.3.1",
-    "gatsby": "^2.31.1",
+    "gatsby": "^5.4.0",
     "gatsby-image": "^2.10.0",
     "gatsby-plugin-ipfs": "^2.0.2",
     "gatsby-plugin-manifest": "^2.11.0",
